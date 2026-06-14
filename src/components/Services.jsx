@@ -29,12 +29,12 @@ const Services = () => {
     ]
   return (
     <div id='services' className='relative flex flex-col items-center gap-7 px-4 sm:px-12 lg:px-24 
-    xl:px-40 pt-30 text-gray-700 dark:text-white'>
+    xl:px-40 pt-32 text-gray-700 dark:text-white'>
        <img src={assets.bgImage2} alt="" className='absolute -top-110 -left-70 -z-1 dark:hidden'/>
        <Title title="We’re here to help" desc="From concept to execution, we create smart digital solutions
         that move your business ahead."/>
 
-        <div className='flex flex-col md:grid grid-cols-2'>
+        <div className='grid grid-cols-1 md:grid-cols-2 '>
             {servicesData.map((service, index)=>(
             <ServiceCard key={index} service={service} index={index}/>))}
         </div>

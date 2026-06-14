@@ -71,12 +71,12 @@ const assets = {
 export default assets
 
 export const teamData = [
-  { name: 'Haley Carter', title: 'CEO & founder', image: 'https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=200' },
-  { name: 'James Walker', title: 'Ads manager', image: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?q=80&w=200' },
-  { name: 'Jessica Morgan', title: 'Vice president', image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?q=80&w=200&h=200&auto=format&fit=crop' },
-  { name: 'Ashley Bennett', title: 'Marketing & sales', image: 'https://randomuser.me/api/portraits/women/10.jpg' },
-  { name: 'Emily Parker', title: 'Content marketer', image: 'https://randomuser.me/api/portraits/women/11.jpg' },
-  { name: 'Ryan Mitchell', title: 'Content writer', image: 'https://randomuser.me/api/portraits/men/9.jpg' },
-  { name: 'Megan Brooks', title: 'Performance manager', image: 'https://randomuser.me/api/portraits/women/12.jpg' },
-  { name: 'Amber Foster', title: 'Senior writer', image: 'https://randomuser.me/api/portraits/women/14.jpg' },
+  { name: 'Sophia Carter', title: 'CEO & founder', image: 'https://images.unsplash.com/photo-1701096374092-bb70915fdc5c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Z2lybCUyMGNvbXBhbnklMjBwcm9mZXNzaW9uYWwlMjBpbWFnZXxlbnwwfHwwfHx8MA%3D%3D' },
+  { name: 'Sarah Wilson', title: 'Lead Designer', image: 'https://plus.unsplash.com/premium_photo-1661304704888-542933309d4a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Ym95JTIwcHJvZmVzc2lvbmFsJTIwaW1hZ2V8ZW58MHx8MHx8fDA%3D' },
+  { name: 'Emma Thompson', title: 'Project Manager', image: 'https://images.unsplash.com/photo-1607990283143-e81e7a2c9349?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Z2lybCUyMHByb2Zlc3Npb25hbCUyMGltYWdlfGVufDB8fDB8fHww' },
+  { name: 'Lucas Bennett', title: 'Vice president', image: 'https://plus.unsplash.com/premium_photo-1682094917716-03b5d476060a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1lbiUyMHByb2Zlc3Npb25hbCUyMGltYWdlfGVufDB8fDB8fHww' },
+  { name: 'Ava Wilson"', title: 'Growth Marketing Specialist', image: 'https://media.istockphoto.com/id/1277971635/photo/portrait-of-a-smiling-man-of-indian-ethnicity.webp?a=1&b=1&s=612x612&w=0&k=20&c=WDut88fKkZMl0aqIC7s7GmZuvnv4xN9xsqdhXtYqpqE=' },
+  { name: 'Mia Rodriguez', title: 'SEO Specialist', image: 'https://randomuser.me/api/portraits/men/9.jpg' },
+  { name: 'Ava Wilson', title: 'Content Strategist', image: 'https://randomuser.me/api/portraits/women/12.jpg' },
+  { name: 'Charlotte Davis', title: 'Content Creator', image: 'https://randomuser.me/api/portraits/women/14.jpg' },
 ]
