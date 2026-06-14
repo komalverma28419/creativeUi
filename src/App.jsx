@@ -3,6 +3,7 @@ import { useState } from 'react'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Empowered from './components/Empowered'
+import Services from './components/Services'
 
 const App = () => {
   const [theme,setTheme] = useState(localStorage.getItem("theme") ? localStorage.getItem("theme"):"light")
@@ -11,6 +12,7 @@ const App = () => {
       <Navbar theme={theme} setTheme={setTheme}/>
       <Hero/>
       <Empowered/>
+      <Services/>
     </div>
   )
 }

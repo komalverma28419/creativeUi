@@ -8,7 +8,7 @@ import microsoft_logo from './microsoft_logo.png'
 import zoom_logo from './zoom_logo.png'
 import meta_logo from './meta_logo.png'
 import adobe_logo from './adobe_logo.avif'
-import amazon_logo from './amazon_logo.jpg'
+import facebook_logo from './facebook_logo.png'
 import google_logo from './google_logo.svg'
 import ads_icon from './ads_icon.svg'
 import content_icon from './content_icon.svg'
@@ -32,11 +32,11 @@ import moon_icon from './moon_icon.svg'
 
 
 export const company_logos = [
-  amazon_logo,
+  adobe_logo,
   meta_logo,
   zoom_logo,
-  microsoft_logo,
-  adobe_logo,
+  facebook_logo,
+  microsoft_logo, 
   google_logo,
 ]
 
