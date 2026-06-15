@@ -1,11 +1,8 @@
-import React, { useState } from 'react'
 import Title from './Title'
 import assets from '../assets/assets'
 import toast from 'react-hot-toast'
 
 const ContactUs = () => {
-  
-  // const [result , setResult] = useState("")
 
   const onSubmit = async(event) => {
     event.preventDefault();
